@@ -1,12 +1,41 @@
-- 👋 Hi, I’m @james-wolfe-04
-- 👀 I’m interested in Gaming, Basketball.
-- 🌱 I’m currently learning coding.
-- 💞️ I’m looking to collaborate on gaming industry.
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hello, I'm James Wolfe
 
-<!---
-james-wolfe-04/james-wolfe-04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🚀 Frontend Developer | Mobile Developer | Web Scraping
+I am a developer focused on building efficient, scalable applications and automated data extraction systems. I enjoy bridging the gap between robust logic and intuitive user interfaces.
+
+---
+
+### 🛠️ Technical Toolkit
+
+* **Languages:** Java, Python, JavaScript (ES6+)
+* **Frontend:** ReactJS, HTML5, CSS3
+* **Automation/Scraping:** Selenium, BeautifulSoup, Scrapy
+* **Tools:** Git, GitHub, Linux
+
+---
+
+### 🎓 Featured Capstone and Other Projects
+
+* **ETEAPP:** A specialized platform designed to streamline the Expanded Tertiary Education Equivalency and Accreditation Program process, built with a focus on accessibility and efficient data management.
+* **SleepSync:** A productivity and wellness application focused on optimizing sleep cycles and performance, leveraging **Java** and **ReactJS** to deliver a seamless cross-platform experience.
+
+---
+
+### 📈 Current Professional Focus
+- 🏗️ **Automated Data Extraction:** Currently an Intern at **Metawatt**, developing scrapers to identify tax overage information across multiple US counties.
+
+---
+
+### 🏀 Beyond the Code
+When I'm not behind a terminal, you can find me:
+* **Gaming:** Playing *Wuthering Waves*, *Valorant*.
+* **On the Court:** Big fan of Basketball—both playing and watching.
+
+---
+
+### 📫 Connect with Me
+- **Role:** Web Scraping Intern @ Metawatt
+- **GitHub:** [@james-wolfe-04](https://github.com/james-wolfe-04)
+- **Pronouns:** He/Him
+
+---
