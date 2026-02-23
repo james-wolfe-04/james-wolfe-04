@@ -9,7 +9,7 @@ I am a developer focused on building efficient, scalable applications and automa
 
 * **Mobile Development:** Java, Kotlin, Android Studio
 * **Frontend/Web:** ReactJS, HTML5, CSS3, JavaScript (ES6+)
-* **Automation/Scraping:** Selenium, BeautifulSoup, Scrapy, Python
+* **Automation/Scraping:** Selenium, BeautifulSoup, Playwright, Python
 * **Tools:** Git, GitHub, Linux
 
 ---
