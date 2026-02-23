@@ -7,9 +7,9 @@ I am a developer focused on building efficient, scalable applications and automa
 
 ### 🛠️ Technical Toolkit
 
-* **Languages:** Java, Python, JavaScript (ES6+)
-* **Frontend:** ReactJS, HTML5, CSS3
-* **Automation/Scraping:** Selenium, BeautifulSoup, Scrapy
+* **Mobile Development:** Java, Kotlin, Android Studio
+* **Frontend/Web:** ReactJS, HTML5, CSS3, JavaScript (ES6+)
+* **Automation/Scraping:** Selenium, BeautifulSoup, Scrapy, Python
 * **Tools:** Git, GitHub, Linux
 
 ---
@@ -17,7 +17,7 @@ I am a developer focused on building efficient, scalable applications and automa
 ### 🎓 Featured Capstone and Other Projects
 
 * **ETEAPP:** A specialized platform designed to streamline the Expanded Tertiary Education Equivalency and Accreditation Program process, built with a focus on accessibility and efficient data management.
-* **SleepSync:** A productivity and wellness application focused on optimizing sleep cycles and performance, leveraging **Java** and **ReactJS** to deliver a seamless cross-platform experience.
+* **SleepSync:** A productivity and wellness mobile application focused on optimizing sleep cycles.
 
 ---
 
